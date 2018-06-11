@@ -1,3 +1,4 @@
 add sample.txt
- add 把变更录入到索引中
+add 把变更录入到索引中
 add sample on test2_cp
+add 把变更录入到索引中1
